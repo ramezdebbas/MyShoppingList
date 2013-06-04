@@ -1,0 +1,11 @@
+My Shopping List:
+Description:
+Did you forget lot of things when you last time went for the shopping, now here is a solution for you. An easy to use application providing you the feature how to schedule the list of your shopping and prioritize them according to their importance. When have bought anything you can dismiss that item with just single click on DONE. Really an easy application for you to make your shopping list.
+	
+Features:
+•	An easy to use application for your shopping list. 
+•	Prioritize the shopping items according to their importance.
+•	When have bought anything you can dismiss that item with just single click on DONE.
+•	Fully Different User Interface Designed keeping in focus point of view of Niche (Target) Market.
+•	Fully Unique Branding (Unique Logo Designing & Graphics Designing)
+
